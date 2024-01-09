@@ -1,4 +1,4 @@
-The excel files are the dataset readingby the projects. 
+The excel files are the dataset reading by the projects. 
 In order to run codes in jupyter notebook file without an error,
 the excel files have to be located in same path with the ".ipynb" files. In addition,
 there are three diferent ".ipynb" files. While the "Reservoir estimation (Monte Carlo Random).ipynb"

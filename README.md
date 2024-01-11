@@ -24,7 +24,7 @@ In this project, I use three different methods to estimate the OOIP of the reser
 
 ## How to Run the Code
 
-To run the code for this project, you need to have Python and Jupyter Notebook installed on your machine. Y After installing Python and Jupyter Notebook, you need to install the required libraries for this project, such as numpy, pandas, matplotlib, and scipy. 
+To run the code for this project, you need to have Python and Jupyter Notebook installed on your machine. After installing Python and Jupyter Notebook, you need to install the required libraries for this project, such as numpy, pandas, matplotlib, and scipy. 
 
 Once you have the libraries installed, you need to download the Excel files and the Jupyter Notebook files from this repo and save them in the same folder. There are three different Jupyter Notebook files for each method:
 
